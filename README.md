@@ -1,4 +1,4 @@
-# あなたの業務をAIがサポート！Anthropicの『Agent Skills』とは
+# 今巷で話題のAnthropicの『Agent Skills』とは
 
 都内IT企業にてなんちゃってデータサイエンティスト/バックエンドエンジニアをしています｡  
 先日[LINE DC Generative AI Meetup #7](https://linedevelopercommunity.connpass.com/event/371716/)に行ってきました!!  
