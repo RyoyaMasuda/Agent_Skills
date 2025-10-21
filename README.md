@@ -3,7 +3,7 @@
 都内IT企業にてなんちゃってデータサイエンティスト/Pythonエンジニアをしています｡  
 最近はグラフデータベースやGraphRAGの調査をしております｡  
 
-先日[LINE DC Generative AI Meetup #7](https://linedevelopercommunity.connpass.com/event/371716/)に行ってきました!!  
+先日[LINE DC Generative AI Meetup #7](https://linedevelopercommunity.connpass.com/event/371716/)に行ってきました!!    
 とても刺激を受けたので初の投稿をしてみたいと思います｡
 
 ![LINE DC Generative AI Meetup #7](img/LINE_DC_Generative_AI_Meetup7.png)
@@ -211,18 +211,18 @@ Agent Skillsは、Claudeを特定業務に適応させるための仕組みと�
 
 ## 参考リンク
 
-- ![やさしいClaude Skills入門](https://www.docswell.com/s/harinezumi/5M683X-2025-10-21-003933#p4)
-- ![Claude Agent SkillsのProgressive Disclosureとコンテキスト、そしてその配布について](https://kiririmode.hatenablog.jp/entry/20251020/1760938505)
-- ![Claudeを"育てる"新常識！ Agent Skills徹底解説 - あなたの仕事を自動化する魔法のレシピ ✨](https://note.com/kyutaro15/n/nfcc15522626f)
-- ![Agent Skills徹底解説！Claudeが【スキルを覚えるAI】へ進化！業務知識を丸ごと学習できる新時代へ](https://weel.co.jp/media/innovator/agent-skills/#index_id1)
+- [やさしいClaude Skills入門](https://www.docswell.com/s/harinezumi/5M683X-2025-10-21-003933#p4)
+- [Claude Agent SkillsのProgressive Disclosureとコンテキスト、そしてその配布について](https://kiririmode.hatenablog.jp/entry/20251020/1760938505)
+- [Claudeを"育てる"新常識！ Agent Skills徹底解説 - あなたの仕事を自動化する魔法のレシピ ✨](https://note.com/kyutaro15/n/nfcc15522626f)
+- [Agent Skills徹底解説！Claudeが【スキルを覚えるAI】へ進化！業務知識を丸ごと学習できる新時代へ](https://weel.co.jp/media/innovator/agent-skills/#index_id1)
 - https://docs.claude.com/ja/docs/claude-code/skills
 - https://docs.claude.com/ja/docs/agents-and-tools/agent-skills/overview
 - https://docs.claude.com/en/docs/agents-and-tools/agent-skills/quickstart
 - https://docs.claude.com/ja/docs/build-with-claude/context-windows
 - https://docs.claude.com/ja/api/skills-guide
-- ![MCPツール棚卸しによるClaude Codeのコンテキスト最適化](https://zenn.dev/medley/articles/optimizing-claude-code-context-with-mcp-tool-audit)
+- [MCPツール棚卸しによるClaude Codeのコンテキスト最適化](https://zenn.dev/medley/articles/optimizing-claude-code-context-with-mcp-tool-audit)
 - https://aws.amazon.com/jp/about-aws/whats-new/2025/08/anthropic-claude-sonnet-bedrock-expanded-context-window/
-- ![【完全解説】Claudeの新機能「Agent Skills」とは？MCPとの違いを徹底比較](https://note.com/masa_wunder/n/n9d524b7b840e)
+- [【完全解説】Claudeの新機能「Agent Skills」とは？MCPとの違いを徹底比較](https://note.com/masa_wunder/n/n9d524b7b840e)
 
 ## Appendix
 ### 主要AIモデルのコンテキストウィンドウ比較
