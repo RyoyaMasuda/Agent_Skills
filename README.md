@@ -167,11 +167,42 @@ Claudeは仮想マシン環境で動作し、ファイルシステムアクセ�
 ## 5. 具体的な活用例
 ### 想定される活用例
 
+Agent Skillsは、Claudeを特定業務に適応させるための仕組みとして設計されており、フォルダ構成で知識やリソースをまとめるだけで、専門分野や部門ごとに異なるワークフローを再現できる点が強みです!!
+
+#### 社内ナレッジベースの構築
+企業の内部知識を体系的に整理し、従業員が簡単にアクセスできるナレッジベースを構築できます。各部署の業務マニュアル、技術仕様書、よくある質問集などをスキルとして整理することで、Claudeが適切な情報を瞬時に提供します。これにより、新入社員の教育コストを削減し、属人化した知識を組織全体で共有できるようになります。
+
+#### 業務プロセスの自動化
+定型的な業務プロセスをスキル化することで、大幅な効率化を実現できます。例えば、経理部門では「請求書処理スキル」を作成し、PDFの請求書からデータを自動抽出して会計システムに登録する作業を自動化できます。人事部門では「採用面接スキル」を用意し、応募者の履歴書を分析して適切な質問項目を提案するなど、様々な業務で活用可能です。
+
+#### 開発チームの生産性向上
+ソフトウェア開発において、プロジェクト固有の設定や手順をスキルとして標準化できます。API仕様書、デプロイ手順、テストケース、コードレビューガイドラインなどを一つのスキルにまとめることで、開発者が「この機能を実装するには？」と質問するだけで、プロジェクトに最適化された手順を即座に得られます。これにより、開発速度の向上と品質の標準化を同時に実現できます。
+
 ### Anthropicが公式で出しているskills
 
-## 
+あらかじめ構築されたエージェントスキルは、ドキュメント作成、データ分析、ファイル処理といったタスクに関する専門知識を提供し、Claudeの機能を拡張します。Anthropicは、APIで以下のエージェントスキルを提供しています。
 
-##
+- **PowerPoint (pptx)**: プレゼンテーションの作成と編集
+- **Excel (xlsx)**: スプレッドシートの作成と分析
+- **Word (docx)**: 文書の作成と編集
+- **PDF (pdf)**: PDF文書を生成する
+
+これらの公式スキルは、一般的なオフィス業務で頻繁に使用されるファイル形式に対応しており、ユーザーは追加の設定なしで即座に利用を開始できます。各スキルは、そのファイル形式に特化した最適化された機能を提供し、高品質な出力を保証します。
+
+## 参考リンク
+
+- ![やさしいClaude Skills入門](https://www.docswell.com/s/harinezumi/5M683X-2025-10-21-003933#p4)
+- ![Claude Agent SkillsのProgressive Disclosureとコンテキスト、そしてその配布について](https://kiririmode.hatenablog.jp/entry/20251020/1760938505)
+- ![Claudeを"育てる"新常識！ Agent Skills徹底解説 - あなたの仕事を自動化する魔法のレシピ ✨](https://note.com/kyutaro15/n/nfcc15522626f)
+- ![Agent Skills徹底解説！Claudeが【スキルを覚えるAI】へ進化！業務知識を丸ごと学習できる新時代へ](https://weel.co.jp/media/innovator/agent-skills/#index_id1)
+- https://docs.claude.com/ja/docs/claude-code/skills
+- https://docs.claude.com/ja/docs/agents-and-tools/agent-skills/overview
+- https://docs.claude.com/en/docs/agents-and-tools/agent-skills/quickstart
+- https://docs.claude.com/ja/docs/build-with-claude/context-windows
+- https://docs.claude.com/ja/api/skills-guide
+- ![MCPツール棚卸しによるClaude Codeのコンテキスト最適化](https://zenn.dev/medley/articles/optimizing-claude-code-context-with-mcp-tool-audit)
+- https://aws.amazon.com/jp/about-aws/whats-new/2025/08/anthropic-claude-sonnet-bedrock-expanded-context-window/
+- ![【完全解説】Claudeの新機能「Agent Skills」とは？MCPとの違いを徹底比較](https://note.com/masa_wunder/n/n9d524b7b840e)
 
 ## Appendix
 ### 主要AIモデルのコンテキストウィンドウ比較
