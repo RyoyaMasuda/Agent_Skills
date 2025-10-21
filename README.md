@@ -105,8 +105,6 @@ description: Comprehensive PDF toolkit for extracting text and tables, merging/s
 
 この段階では、Claudeは具体的な作業手順、使用するツール、注意事項などの詳細な指示を受け取ります。
 
-この段階で大半のタスクは実行可能になります。SKILL.mdには、基本的な使用方法から高度な機能まで、そのスキルで実行可能なすべての操作が網羅されています。
-
 ##### Markdown（本文部分）
 ````
 **Overview**
