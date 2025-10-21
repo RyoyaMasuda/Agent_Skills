@@ -142,7 +142,7 @@ pdf-skill/
 指示が実行可能スクリプトについて言及している場合、Claude は bash 経由でそれらを実行し、出力のみを受け取ります（**スクリプト コード自体はコンテキストに入りません!!**）。
 
 ##### 実際の対話とskills呼び出しのイメージ
-Tool use: Bash("~")でスクリプトコードはコンテキスト内に入っていない｡
+`Tool use: Bash("~")`でスクリプトコードはコンテキスト内に入っていない｡
 ![skills_and_context_window.png](img/skills_and_context_window.png)
 
 ### アーキテクチャの特徴
