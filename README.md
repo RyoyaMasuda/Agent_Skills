@@ -1,6 +1,8 @@
 # 今巷で話題のAnthropicの『Agent Skills』とは
 
 都内IT企業にてなんちゃってデータサイエンティスト/Pythonエンジニアをしています｡  
+最近はグラフデータベースやGraphRAGの調査をしております｡  
+
 先日[LINE DC Generative AI Meetup #7](https://linedevelopercommunity.connpass.com/event/371716/)に行ってきました!!  
 とても刺激を受けたので初の投稿をしてみたいと思います｡
 
