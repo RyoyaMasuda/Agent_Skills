@@ -4,7 +4,7 @@
 先日[LINE DC Generative AI Meetup #7](https://linedevelopercommunity.connpass.com/event/371716/)に行ってきました!!
 とても刺激を受けたので初の投稿をしてみたいと思います｡
 
-![LINE DC Generative AI Meetup #7](img/LINE_DC_Generative_AI_Meetup#7.png)
+![LINE DC Generative AI Meetup #7](../img/LINE_DC_Generative_AI_Meetup#7.png)
 
 今､巷で話題となっているAnthropicから新しく発表された新機能｢Agent Skills｣について解説してみたいと思います!!(もうたくさん記事が出ていますが自分自身の勉強のためにも)
 
